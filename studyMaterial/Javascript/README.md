@@ -18,7 +18,7 @@ JavaScript is the third most important web technology after HTML and CSS.</p>
     </tr>
   </thead>
   <tbody>
-        <tr> 
+      <tr> 
       <td><b>Card #39</b></td>
       <td> Javascript (syntax and basic constructs)</td>
       <td><code><img alt="JS" height="20" src="https://img.shields.io/badge/javascript-orange?&style=for-the-flat&logo=javascript&logoColor=white"></code></td>

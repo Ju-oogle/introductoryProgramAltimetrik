@@ -20,10 +20,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Card #50</b></a></td>
+      <td><b>Card #50</b></td>
       <td> Agile software development methodologies and SCRUM</td>
-      <td><code><img alt="agile scrum" height="20" src="https://img.shields.io/badge/agile%20&%20SCRUM-ff69b4?&style=for-the-flat&logo=circle&logoColor=white"></a>     </td></code></td>
-      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs"         src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><code><img alt="agile scrum" height="20" src="https://img.shields.io/badge/agile%20&%20SCRUM-ff69b4?&style=for-the-flat&logo=circle&logoColor=white"></td></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs"src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/Agile%20%26%20Scrum" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
   </tbody>
