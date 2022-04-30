@@ -5,7 +5,7 @@
 <p><b>Hello there! Welcome to my Github repository</b></p>
 <p>I'm Julieta, ( <a href="https://github.com/Ju-oogle" target="_blank"><img src="https://img.shields.io/badge/About-green?&style=for-the-flat&logo=aboutdotme&logoColor=white"></a> ) a Fullstack Jr. developer <em>in the making</em> from <b>Mendoza, Argentina</b>.</p>
 
-<p>Recently, I been selected to participate on the 2nd edition of the Front End bootcamp by <a href="https://www.linkedin.com/company/altimetrik/" target="_blank">Altimetrik.</a>. 
+<p>Recently, I been selected to participate on the 2nd edition of the Front End bootcamp by <a href="https://www.linkedin.com/company/altimetrik/" target="_blank">Altimetrik.</a>.
 
 <p>During the next 2 months we will be following their self-taught study program and coding.</p>
 <p>Those selected, will have the amazing opportunity to join the company.</p>
@@ -29,6 +29,7 @@
 </p>
 
 ## Information access
+
 <p>Here is the <a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a> file where my path from this program is being documented.</p>
 <p>Here's the link to my <a href="https://trello.com/b/WgfNtKGO/juoogles-workspace-bfeda-2nd-edition" target="_blank"><img alt="trello" src="https://img.shields.io/badge/Trello-blue?&style=for-the-flat&logo=trello&logoColor=white"></a></p>
 
@@ -48,7 +49,7 @@
     <tr>
       <td><b>Card #50</b></a></td>
       <td> Agile software development methodologies and SCRUM</td>
-      <td><code><img alt="agile scrum" height="20" src="https://img.shields.io/badge/agile%20&%20SCRUM-ff69b4?&style=for-the-flat&logo=circle&logoColor=white"></a>     </td></code></td>
+      <td><code><img alt="agile scrum" height="20" src="https://img.shields.io/badge/agile%20&%20SCRUM-ff69b4?&style=for-the-flat&logo=circle&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs"         src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/Agile%20%26%20Scrum" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
@@ -81,6 +82,58 @@
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/Javascript" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
   </tbody>
+</table>
+
+
+# Second week
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🃏 Trello Card</b></td>
+      <td><b>🗒️ Summary</b></td>
+      <td><b>💻 Resources</b></td>
+      <td><b>💾 Study Notes</b></td>
+      <td><b>🔗 Sources</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Card #28</b></a></td>
+      <td> SEO | DOM </td>
+      <td><code><img alt="seo dom" height="20" src="https://img.shields.io/badge/SEO%20%7C%20DOM-red?&style=for-the-flat&logo=cachet& logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs"src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/SEO%20%26%20DOM" target="_blank"><img alt="seo dom" src="https://img.shields.io/badge/SEO%20%7C%20DOM-red?&style=for-the-flat&logo=cachet& logoColor=white"></a></td> 
+    </tr>
+     <tr>
+      <td><b>Card #26</b></a></td>
+      <td> HTML5 (What is? | meta-tags | Input types | Difference between HTML and XHTML) </td>
+      <td><code><img alt="html" height="20" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td><b>Card #30</b></a></td>
+      <td> HTML5 (data - atributes)</td>
+      <td><code><img alt="html" height="20" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td><b>Card #32</b></a></td>
+      <td> HTML5 (Input types | Accessibility | Semantic HTML)</td>
+      <td><code><img alt="html" height="20" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></a></td>
+    </tr>
+   <tr>
+      <td><b>Card #33</b></a></td>
+      <td> CSS3 (general knowledge | Specificity | Box Model) </td>
+      <td><code><img alt="css3" height="20" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS3" target="_blank"><img alt="css3" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></a></td>
+    </tr>
+      </tbody>
 </table>
 
 ## Where to find me
