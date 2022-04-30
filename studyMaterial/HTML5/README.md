@@ -22,21 +22,21 @@
       <td> HTML5 (What is? | meta-tags | Input types | Difference between HTML and XHTML) </td>
       <td><code><img alt="html" height="20" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
-      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="html5" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
     <tr>
-      <td><b>Card #30</b></a></td>
+      <td><b>Card #30</b></td>
       <td> HTML5 (data - atributes)</td>
      <td><code><img alt="html" height="20" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
-      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="html5" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
     <tr>
       <td><b>Card #32</b></td>
       <td> HTML5 (Input types | Accessibility | Semantic HTML)</td>
       <td><code><img alt="html" height="20" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
-      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="html5" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
   </tbody>
 </table>
