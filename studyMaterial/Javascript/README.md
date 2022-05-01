@@ -5,7 +5,7 @@
 
 JavaScript is the third most important web technology after HTML and CSS.</p>
 
-# First week
+# Topic Index
 
 <table>
   <thead align="center">
@@ -20,6 +20,13 @@ JavaScript is the third most important web technology after HTML and CSS.</p>
   <tbody>
       <tr> 
       <td><b>Card #39</b></td>
+      <td> Javascript (syntax and basic constructs)</td>
+      <td><code><img alt="JS" height="20" src="https://img.shields.io/badge/javascript-orange?&style=for-the-flat&logo=javascript&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/Javascript" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td><b>Card #42</b></td>
       <td> Javascript (syntax and basic constructs)</td>
       <td><code><img alt="JS" height="20" src="https://img.shields.io/badge/javascript-orange?&style=for-the-flat&logo=javascript&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>

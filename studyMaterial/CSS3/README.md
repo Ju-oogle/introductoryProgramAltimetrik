@@ -1,9 +1,9 @@
 # BFEDA Program | 2nd Edition -
 
-<h3> CSS3 | Cascading Style Sheets </h3>
+<h3> CSS | Cascading Style Sheets </h3>
 <p> It is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. It can be used to adjust content size, spacing, color and font or add decorative features, such as animations or split content into columns among others.</p>
 
-# Second week
+# Topic Index
 
 <table>
   <thead align="center">
@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td><b>Card #33</b></td>
-      <td> CSS3 (general knowledge | Specificity | Box Model) </td>
+      <td> CSS (general knowledge | Specificity | Box Model) </td>
       <td><code><img alt="css3" height="20" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>

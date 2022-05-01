@@ -5,7 +5,7 @@
 <p><b>Hello there! Welcome to my Github repository</b></p>
 <p>I'm Julieta, ( <a href="https://github.com/Ju-oogle" target="_blank"><img src="https://img.shields.io/badge/About-green?&style=for-the-flat&logo=aboutdotme&logoColor=white"></a> ) a Fullstack Jr. developer <em>in the making</em> from <b>Mendoza, Argentina</b>.</p>
 
-<p>Recently, I was selected to participate in the 2nd edition of the Front End bootcamp by <a href="https://www.linkedin.com/company/altimetrik/" target="_blank">Altimetrik.</a>.
+<p>Recently, I was selected to participate in the 2nd edition of the Front End bootcamp by <a href="https://www.linkedin.com/company/altimetrik/" target="_blank">Altimetrik.</a>
 
 <p>During the next 2 months we will be following their self-taught study program and coding.</p>
 <p>Those selected will have the amazing opportunity to join the company.</p>
@@ -25,7 +25,7 @@
 
 <p>In this repository, I will be posting my progress, study content, data sources, and the coding practice.</p>
 
-<p>If you are intrested in participating on the next batches, make sure to follow them on <a href="https://www.linkedin.com/company/altimetrik/posts/?feedView=all" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white"></a>
+<p>If you are intrested in participating in the next batches, make sure to follow them on <a href="https://www.linkedin.com/company/altimetrik/posts/?feedView=all" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## Information access
@@ -74,6 +74,7 @@
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/Git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
+   <tr>
       <td><b>Card #39</b></td>
       <td> Javascript (syntax and basic constructs)</td>
       <td><code><img alt="JS" height="20" src="https://img.shields.io/badge/javascript-orange?&style=for-the-flat&logo=javascript&logoColor=white"></code></td>
@@ -106,30 +107,37 @@
     </tr>
      <tr>
       <td><b>Card #26</b></td>
-      <td> HTML5 (What is? | meta-tags | Input types | Difference between HTML and XHTML) </td>
+      <td> HTML (What is? | meta-tags | Input types | Difference between HTML and XHTML) </td>
       <td><code><img alt="html" height="20" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
     <tr>
       <td><b>Card #30</b></td>
-      <td> HTML5 (data - atributes)</td>
+      <td> HTML (data - atributes)</td>
       <td><code><img alt="html" height="20" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
     <tr>
       <td><b>Card #32</b></td>
-      <td> HTML5 (Input types | Accessibility | Semantic HTML)</td>
+      <td> HTML (Input types | Accessibility | Semantic HTML)</td>
       <td><code><img alt="html" height="20" src="https://img.shields.io/badge/git-yellow?&style=for-the-flat&logo=git&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML5" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
    <td><b>Card #33</b></td>
-      <td> CSS3 (general knowledge | Specificity | Box Model) </td>
+      <td> CSS (general knowledge | Specificity | Box Model) </td>
       <td><code><img alt="css3" height="20" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></code></td>
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td><b>Card #42</b></td>
+      <td> Javascript (syntax and basic constructs)</td>
+      <td><code><img alt="JS" height="20" src="https://img.shields.io/badge/javascript-orange?&style=for-the-flat&logo=javascript&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/Javascript" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
       </tbody>
 </table>
