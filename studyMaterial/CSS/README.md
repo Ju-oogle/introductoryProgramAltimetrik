@@ -23,6 +23,48 @@
       <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
       <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
     </tr>
+    tr>
+   <td><b>Card #36</b></td>
+      <td> CSS (Media Queries | em, rem, px) </td>
+      <td><code><img alt="css3" height="20" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
+    </tr>
+     <tr>
+   <td><b>Card #34</b></td>
+      <td> CSS (Positioning | Making layouts) </td>
+      <td><code><img alt="css3" height="20" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
+    </tr>
+     <tr>
+   <td><b>Card #37</b></td>
+      <td> CSS (Flexbox layout | Grid Layout) </td>
+      <td><code><img alt="css3" height="20" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
+    </tr>
+     <tr>
+   <td><b>Card #51</b></td>
+      <td> CSS (Bootstrap | Materialize CSS) </td>
+      <td><code><img alt="bootstrap" height="20" src="https://img.shields.io/badge/Bootstrap-purple?&style=for-the-flat&logo=bootstrap&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS/CSS%20framework" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
+    </tr>
+        <tr>
+   <td><b>Card #38</b></td>
+      <td> CSS (css preprocessors | SASS) </td>
+      <td><code><img alt="css3" height="20" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
+    </tr>
+        <tr>
+   <td><b>Card #35</b></td>
+      <td> CSS (OOCSS | BEM | SMACSS) </td>
+      <td><code><img alt="css3" height="20" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></code></td>
+      <td><a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a></td>
+      <td><a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></td>
+    </tr>
   </tbody>
 </table>
 
