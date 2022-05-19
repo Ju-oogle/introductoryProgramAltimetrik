@@ -4,12 +4,13 @@
 
 <p>As you already know, recently I was selected to participate in the 2nd edition of the Front End bootcamp by <a href="https://www.linkedin.com/company/altimetrik/" target="_blank">Altimetrik.</a></p>
 
-<p>We have been recommended to access <a href="https://www.youtube.com/c/TheNetNinja" target="_blank">The NetNinja</a> Youtube's Channel and practice with it:</li></br> 
-    <ul type="cyrcle">
-     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G" target="_blank"><img alt="css3" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></a> <img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></a></li>
+<p>We have been recommended to access <a href="https://www.youtube.com/c/TheNetNinja" target="_blank">The NetNinja</a> Youtube's Channel and practice with it:</br> 
+    <ul>
+     <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G" target="_blank"><img alt="css3" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white">& </a> <img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></a></li>
+    </ul>
 </p>
 
-<p>This folder together with <a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/HTML/crashCourse%20HTML%26CSS" target="_blank"><img alt="JS" src="https://img.shields.io/badge/Javascript-yellow?&style=for-the-flat&logo=javascript&logoColor=white">this other </a> will contain all the practice scripts</p>
+<p>This folder together with <a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS/crashCourse%20HTML%26CSS" target="_blank"><img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white">this other </a> will contain all the practice scripts</p>
 
 ## Information access
 
