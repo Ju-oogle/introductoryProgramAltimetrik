@@ -15,7 +15,7 @@
 <ul type="cyrcle">
     <li>We joined their  <img alt="slack" src="https://img.shields.io/badge/Slack-blueviolet?&style=for-the-flat&logo=slack&logoColor=white"/>  channel to stay informed and connected with the team.</li>
     <li>We have mandatory meetings per week, to discuss all types of Programming related subjects.</li>
-    <li>We have been recommended to access the following Github's repositories:</li></br> 
+    <li>We have been recommended to access the following Github's repository and YouTube's channel:</li></br> 
       <ul type="cyrcle">
       <li><a href="https://github.com/Asabeneh/30-Days-Of-JavaScript" target="_blank"><img alt="JS" src="https://img.shields.io/badge/Javascript-yellow?&style=for-the-flat&logo=javascript&logoColor=white"></a></li>
       <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G" target="_blank"><img alt="css3" src="https://img.shields.io/badge/CSS3-blue?&style=for-the-flat&logo=css3&logoColor=white"></a> <img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></a></li>
@@ -32,6 +32,8 @@
 
 <p>Here is the <a href="https://docs.google.com/document/d/1pVQDZ1HwT11jFiImkT1QuoQdv71whgUIumcxEbGAu6k/edit?usp=sharing" target="_blank"><img alt="google docs" src="https://img.shields.io/badge/Google%20Doc-green?&style=for-the-flat&logo=googlesheets&logoColor=white"></a> file where my path from this program is being documented.</p>
 <p>Here is the link to my <a href="https://trello.com/b/WgfNtKGO/juoogles-workspace-bfeda-2nd-edition" target="_blank"><img alt="trello" src="https://img.shields.io/badge/Trello-blue?&style=for-the-flat&logo=trello&logoColor=white"></a></p>
+<p>Here is the link to my Github's Project <a href="https://github.com/Ju-oogle/AltimetrikGameFinderApp" target="_blank"><img alt="Gitbub" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a></p>
+
 
 # First week
 
