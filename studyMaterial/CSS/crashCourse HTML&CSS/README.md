@@ -10,7 +10,7 @@
     </ul>
 </p>
 
-<p>This folder together with <a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS/crashCourse%20HTML%26CSS" target="_blank"><img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white">this other </a> will contain all the practice scripts</p>
+<p>This folder together with this one <a href="https://github.com/Ju-oogle/introductoryProgramAltimetrik/tree/master/studyMaterial/CSS/crashCourse%20HTML%26CSS" target="_blank"><img alt="html5" src="https://img.shields.io/badge/HTML5-orange?&style=for-the-flat&logo=html5&logoColor=white"></a> will contain all the practice scripts</p>
 
 ## Information access
 
