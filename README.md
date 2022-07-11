@@ -8,7 +8,6 @@
 <p>Recently, I was selected to participate in the 2nd edition of the Front End bootcamp by <a href="https://www.linkedin.com/company/altimetrik/" target="_blank">Altimetrik.</a>
 
 <p>During the next 2 months we will be following their self-taught study program and coding.</p>
-<p>Those selected will have the amazing opportunity to join the company.</p>
 
 <p>To get to know how is a 'real experience' on what a common day of the web developer looks like:
 
@@ -283,5 +282,5 @@
 
 ## Where to find me
 
-<p><a href="https://github.com/Ju-oogle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a> <a href="mailto:juoogle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?&style=for-the-flat&logo=gmail&logoColor=white"></a> <a href="www.linkedin.com/in/julieta-zavalla-alcala" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white"></a>
+<p><a href="https://github.com/Ju-oogle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-orange?&style=for-the-flat&logo=github&logoColor=white"></a> <a href="mailto:juoogle.ok@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?&style=for-the-flat&logo=gmail&logoColor=white"></a> <a href="www.linkedin.com/in/julieta-zavalla-alcala" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-flat&logo=linkedin&logoColor=white"></a>
 </p>
